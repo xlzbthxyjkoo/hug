@@ -1,0 +1,12 @@
+:root {
+  --vh: 100%;
+}
+
+#main-footer {
+  background: #ffffff;
+  color : black;
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
